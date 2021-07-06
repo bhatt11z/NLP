@@ -28,4 +28,13 @@ I applied natural language processing to understand the sentiment in the latest 
 
 ![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.37.01%20PM.png)
 
-j
+
+## **Word Cloud**
+
+- **Bitcoin**
+
+![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.39.59%20PM.png)
+
+- **Ethereum**
+
+![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.41.30%20PM.png)
