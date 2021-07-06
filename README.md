@@ -27,3 +27,5 @@ I applied natural language processing to understand the sentiment in the latest 
 ## **NGrams**
 
 ![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.37.01%20PM.png)
+
+j
