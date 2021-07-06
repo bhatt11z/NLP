@@ -22,3 +22,8 @@ I applied natural language processing to understand the sentiment in the latest 
 - **Ethereum Tokenization**
 
 ![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.34.59%20PM.png)
+
+
+## **NGrams**
+
+![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.37.01%20PM.png)
