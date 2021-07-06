@@ -12,3 +12,13 @@ I applied natural language processing to understand the sentiment in the latest 
 
 ![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.31.13%20PM.png)
 
+
+## **Tokenizer**
+
+- **Bitcoin Tokenization**
+
+![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.33.28%20PM.png)
+
+- **Ethereum Tokenization**
+
+![](https://raw.githubusercontent.com/bhatt11z/NLP/main/Screen%20shots/Screenshot%202021-07-05%20at%2010.34.59%20PM.png)
