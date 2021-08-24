@@ -2,6 +2,13 @@
 
 I applied natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum.
 
+## Getting Started
+
+### Tokenize
+    - Lowercase each word
+    - Remove punctuation
+    - Remove stop words
+
 ## **Sentiment Analysis**
 
 - **Bitcoin Sentiment**
