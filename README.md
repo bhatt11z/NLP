@@ -5,9 +5,14 @@ I applied natural language processing to understand the sentiment in the latest 
 ## Getting Started
 
 ### Tokenize
-    - Lowercase each word
-    - Remove punctuation
-    - Remove stop words
+  - Lowercase each word
+  - Remove punctuation
+  - Remove stop words
+
+### N-grams
+  - Use NLTK to produce the ngrams for N = 2
+  - List the top 10 words for each coin
+    
 
 ## **Sentiment Analysis**
 
