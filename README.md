@@ -4,6 +4,9 @@ I applied natural language processing to understand the sentiment in the latest 
 
 ## Getting Started
 
+### DATA
+- Newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+
 ### Tokenize
   - Lowercase each word
   - Remove punctuation
